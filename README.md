@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ram-niwash
+- 👀 I’m interested in Java, JavaScript ,CSS , HTML 
+- 🌱 I’m currently learning Angular 
+- 📫 How to reach me rniwash122@gmail.com
